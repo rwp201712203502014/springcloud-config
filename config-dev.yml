@@ -1,1 +1,2 @@
-server.aa
+config: 
+ info: configInfoMsg
